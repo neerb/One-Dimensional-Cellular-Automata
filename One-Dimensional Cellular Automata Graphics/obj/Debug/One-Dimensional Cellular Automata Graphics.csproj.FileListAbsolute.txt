@@ -1,0 +1,18 @@
+A:\Second Desktop\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\bin\Debug\One-Dimensional Cellular Automata Graphics.exe.config
+A:\Second Desktop\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\bin\Debug\One-Dimensional Cellular Automata Graphics.exe
+A:\Second Desktop\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\bin\Debug\One-Dimensional Cellular Automata Graphics.pdb
+A:\Second Desktop\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One-Dimensional Cellular Automata Graphics.csprojResolveAssemblyReference.cache
+A:\Second Desktop\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One_Dimensional_Cellular_Automata_Graphics.Form1.resources
+A:\Second Desktop\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One_Dimensional_Cellular_Automata_Graphics.Properties.Resources.resources
+A:\Second Desktop\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One-Dimensional Cellular Automata Graphics.csproj.GenerateResource.Cache
+A:\Second Desktop\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One-Dimensional Cellular Automata Graphics.exe
+A:\Second Desktop\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One-Dimensional Cellular Automata Graphics.pdb
+C:\Users\thorp\Desktop\Programming\Programming-Important Stuff\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\bin\Debug\One-Dimensional Cellular Automata Graphics.exe.config
+C:\Users\thorp\Desktop\Programming\Programming-Important Stuff\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\bin\Debug\One-Dimensional Cellular Automata Graphics.exe
+C:\Users\thorp\Desktop\Programming\Programming-Important Stuff\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\bin\Debug\One-Dimensional Cellular Automata Graphics.pdb
+C:\Users\thorp\Desktop\Programming\Programming-Important Stuff\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One-Dimensional Cellular Automata Graphics.csprojAssemblyReference.cache
+C:\Users\thorp\Desktop\Programming\Programming-Important Stuff\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One_Dimensional_Cellular_Automata_Graphics.Form1.resources
+C:\Users\thorp\Desktop\Programming\Programming-Important Stuff\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One_Dimensional_Cellular_Automata_Graphics.Properties.Resources.resources
+C:\Users\thorp\Desktop\Programming\Programming-Important Stuff\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One-Dimensional Cellular Automata Graphics.csproj.GenerateResource.cache
+C:\Users\thorp\Desktop\Programming\Programming-Important Stuff\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One-Dimensional Cellular Automata Graphics.exe
+C:\Users\thorp\Desktop\Programming\Programming-Important Stuff\C# Projects\One-Dimensional Cellular Automata Graphics\One-Dimensional Cellular Automata Graphics\obj\Debug\One-Dimensional Cellular Automata Graphics.pdb
